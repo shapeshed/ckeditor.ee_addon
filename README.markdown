@@ -61,7 +61,6 @@ A simple example would be to set a Basic toolbar like this:
 
 This sets when an CKEditor box is loaded. 
 
-* On page load - the editor loads instantly for all textareas
 * On single click - the editor loads when there is a single click in a textarea
 * On double click - the editor loads when there is a double click in a textarea
 

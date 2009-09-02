@@ -157,10 +157,7 @@ class Ckeditor
 	function set_behaviour($behaviour)
 	{
 		switch ($behaviour) {
-			case 'page_load':
-				$event = "ready";
-				break;
-	
+				
 			case 'single_click':
 				$event = "click";
 				break;
@@ -270,7 +267,7 @@ class Ckeditor
     	
     	$settings['script_url']		= $PREFS->ini('site_url', TRUE).'ckeditor/ckeditor.js';
     	$settings['configuration']	= array('t', "CKEDITOR.replace(name);");
-    	$settings['behaviour']		= array('s', array('page_load' => "On page load", 'single_click' => "On single click", 'double_click' => "On double click"), 'page_load');
+    	$settings['behaviour']		= array('s', array('single_click' => "On single click", 'double_click' => "On double click"), 'single_click');
 	 
     	
     	return $settings;
