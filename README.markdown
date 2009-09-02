@@ -12,7 +12,7 @@
 
 CKEditor is free for personal and commercial use. 
 
-If you use it commercially use a donation of $5 is suggested. You can send [donations here](http://pledgie.com/campaigns/5741). 
+If you use it commercially use a donation of $5 is suggested. You can send [donations here](http://pledgie.com/campaigns/5948). 
 
 CKEditor is licensed under a [Open Source Initiative - BSD License][] license.
 
