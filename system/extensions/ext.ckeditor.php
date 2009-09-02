@@ -123,7 +123,7 @@ class Ckeditor
 				$(document).ready(function(){
 					$("textarea").'.$event.'(function()
 					{
-						var name = $("textarea").attr("name");
+						var name = $(this).attr("name");
 						'.$configuration.'
 					});
 				});
