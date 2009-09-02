@@ -52,14 +52,14 @@ This provides site authors with the ability to add configuration options to CKEd
 
 A simple example would be to set a Basic toolbar like this:
 
-CKEDITOR.replace(name,
+	CKEDITOR.replace(name,
     {
         toolbar : 'Basic'
     });
 
 ### When CKEditor loads ###
 
-This sets when CKEditor is loaded. 
+This sets when an CKEditor box is loaded. 
 
 * On page load - the editor loads instantly for all textareas
 * On single click - the editor loads when there is a single click in a textarea
