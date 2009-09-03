@@ -3,6 +3,8 @@
 * **Author**: [George Ornbo][]
 * **Source Code**: [Github][]
 
+If you are looking to use CKEditor and require more features and support please consider Brandon Kelly's [Wygwam Extension](http://brandon-kelly.com/wygwam).
+
 ## Compatibility
 
 * ExpressionEngine Version 1.6.x
@@ -10,9 +12,11 @@
 
 ## License
 
-CKEditor is free for personal and commercial use. 
+The CKEditor extension is free for personal and commercial use. 
 
-If you use it commercially use a donation of $5 is suggested. You can send [donations here](http://pledgie.com/campaigns/5948). 
+CKEditor is covered by a [separate license](http://ckeditor.com/license). Please ensure you have an appropriate license when using CKEditor. I accept no responsibility this.
+
+If you use the extension commercially use a donation of $5 is suggested. You can send [donations here](http://pledgie.com/campaigns/5948). 
 
 CKEditor is licensed under a [Open Source Initiative - BSD License][] license.
 
